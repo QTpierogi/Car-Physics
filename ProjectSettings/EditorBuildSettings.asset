@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ArcadeSample.unity
+    guid: 948f042b070278444ae951459ef419f2
+  - enabled: 1
+    path: Assets/Scenes/RaycastSample.unity
+    guid: edbd4d13e84a1364aa780ca59377cdd5
+  - enabled: 1
+    path: Assets/Scenes/SimCadeSample.unity
+    guid: f27904683c407f34f80d82dcc36dcccf
+  - enabled: 1
+    path: Assets/Scenes/ArcadeTimeRace.unity
+    guid: e5208cde7497ab84c939c20d923598a2
+  - enabled: 1
+    path: Assets/Scenes/RaycastTimeRace.unity
+    guid: cd97fb899653223468be8c50669cddc0
+  - enabled: 1
+    path: Assets/Scenes/SimCadeTimeRace.unity
+    guid: faaf5564a8ee41b44a494c82cc4d52eb
+  m_configObjects: {}
